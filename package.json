@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MisterConscio/curso-frontend-ebac.git"
+    "url": "git+https://github.com/MisterConscio/site-sorteador.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MisterConscio/curso-frontend-ebac/issues"
+    "url": "https://github.com/MisterConscio/site-sorteador/issues"
   },
-  "homepage": "https://github.com/MisterConscio/curso-frontend-ebac#readme",
+  "homepage": "https://github.com/MisterConscio/site-sorteador#readme",
   "devDependencies": {
     "grunt": "^1.6.1",
     "grunt-concurrent": "^3.0.0",
